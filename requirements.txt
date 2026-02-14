@@ -1,0 +1,8 @@
+#data
+numpy
+
+#language
+python
+
+#model
+gemini-2-0-api
