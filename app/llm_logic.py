@@ -25,4 +25,3 @@ class Arclogic:
         new_grid = np.copy(grid)
         new_grid[grid==old_colour] = new_color
         return new_grid
-

@@ -1,8 +1,13 @@
 #data
 numpy
+pandas
 
 #language
 python
 
 #model
 gemini-2-0-api
+
+#framewoeks
+langchain
+langgraph
